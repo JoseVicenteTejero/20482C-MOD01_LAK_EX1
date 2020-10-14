@@ -4,4 +4,4 @@ JOSÉ VICENTE TEJERO CALDERERA 14/10/2020
 RESUMEN
 Developing the Class Enrollment Application. Exercise 1: Implementing Edit Functionality for the student list
 
-PROBLEMAS. Me da fallos al compilar.
+PROBLEMAS. Sin problemas.
